@@ -6,10 +6,10 @@ const App = () => {
   return (
     <div>
       <Tooltip text="This is a tooltip">
-        <div className="hover-text">Hover Over Me</div>
+        <p className="tooltip">Hover Over Me</p>
       </Tooltip>
       <Tooltip text="This is another tooltip">
-        <div className="hover-text">Hover over me to see another tooltip</div>
+        <p className="tooltip">Hover over me to see another tooltip</p>
       </Tooltip>
     </div>
   );
