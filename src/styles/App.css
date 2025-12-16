@@ -1,1 +1,8 @@
+.tooltip-container {
+    background-color: red;
+    padding: 5px 10px;
+    max-width: 100px;
+    border-radius: 15px;
+}
 
+.hover-text {}
